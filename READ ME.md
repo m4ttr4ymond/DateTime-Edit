@@ -1,16 +1,17 @@
 # READ ME
 
-DateTime Edit v1.0
+#### DateTime Edit v1.0
 
 Code by Matthew Raymond
 
-Overview:
+
+#### Overview:
 
 This program is intended to enable users to create a custom file/directory order view in file
 explorer and also change the creation/modification dates of individual files.
 
 
-Instructions:
+#### Instructions:
 
 Run the .exe
 
@@ -31,5 +32,5 @@ main menu.
 Click "Reorder" to change the order of the files, and click "Back" to go to the previous menu.
 
 
-Resources Used:
+#### Resources Used:
 - List icon: icons8.com
